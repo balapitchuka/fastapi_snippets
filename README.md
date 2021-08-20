@@ -17,6 +17,8 @@
 
 ##### Setup
 
+Requires python3.6+
+
 
 
 ##### Development
