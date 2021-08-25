@@ -8,14 +8,20 @@
     + `OpenAPI documentation`
 
 
-##### Highlights Of FastAPI:
+## Highlights Of FastAPI:
 + Heavily inspired by `Flask`, it has a lightweight microframework feel with support for Flask-like route decorators.
 + It takes advantage of Python type hints for parameter declaration which enables data validation (via Pydantic) and OpenAPI/Swagger documentation.
 + Built on top of `Starlette`, it supports the development of asynchronous APIs.
 + It's fast. Since async is much more efficient than the traditional synchronous threading model, `it can compete with Node and Go with regards to performance`.
 
 
-##### Setup
+## References
+- [Pydantic](https://pydantic-docs.helpmanual.io/)
+    - Data validation and settings management using python type annotations.
+
+
+
+## Setup
 
 Requires python3.6+
 
