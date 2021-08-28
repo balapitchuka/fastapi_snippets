@@ -37,6 +37,6 @@ Requires python3.6+
 
 
 ## References
-    - [Awesome FastAPI Github Repo](https://github.com/mjhea0/awesome-fastapi)
-    - [FastAPI Official Docs](https://fastapi.tiangolo.com/)
+- [Awesome FastAPI Github Repo](https://github.com/mjhea0/awesome-fastapi)
+- [FastAPI Official Docs](https://fastapi.tiangolo.com/)
 
