@@ -27,10 +27,16 @@ Requires python3.6+
 
 
 
-##### Development
+## Development
 + Unlike Django or Flask, FastAPI `does not have a built-in development server`. 
 + So, use `Uvicorn`, an `ASGI server`, to serve up FastAPI.
 
 
-##### Deployment
+## Deployment
+
+
+
+## References
+    - [Awesome FastAPI Github Repo](https://github.com/mjhea0/awesome-fastapi)
+    - [FastAPI Official Docs](https://fastapi.tiangolo.com/)
 
